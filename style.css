@@ -3,7 +3,7 @@
 
 /* Define variabel di dalam CSS */
 :root {
-    --primary: hsl(45, 94%, 57%);
+    --primary: blue;
     --dark-grey: hsl(0, 0%, 12%);
     --grey: hsl(0, 0%, 20%);
     --off-black: hsl(0, 0%, 8%);
